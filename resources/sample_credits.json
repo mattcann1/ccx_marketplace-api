@@ -1,0 +1,271 @@
+[
+  {
+    "id": "CCX-CR-001",
+    "project_name": "Amazon Rainforest Restoration",
+    "supplier": "EcoRestore Brazil",
+    "credit_type": "Reforestation",
+    "vintage": 2024,
+    "quantity_available": 10000,
+    "price_per_ton": 45.50,
+    "location": "Amazon Basin, Brazil",
+    "verification_status": "Verified",
+    "methodology": "VM0034 - Improved Forest Management",
+    "public_details": {
+      "project_area_hectares": 5000,
+      "tree_species": ["Brazil Nut", "Mahogany", "Cecropia"],
+      "co_benefits": ["Biodiversity", "Community Employment"],
+      "sdg_alignment": [13, 15, 8]
+    },
+    "private_details": {
+      "verification_reports": ["detailed_carbon_calc.pdf", "field_inspection_2024.pdf"],
+      "financial_details": {"project_cost": 2250000, "roi_projection": 0.15},
+      "third_party_audits": 3
+    }
+  },
+  {
+    "id": "CCX-CR-002",
+    "project_name": "Solar Farm Development Kenya",
+    "supplier": "AfricaSolar Ltd",
+    "credit_type": "Renewable Energy",
+    "vintage": 2024,
+    "quantity_available": 5000,
+    "price_per_ton": 38.75,
+    "location": "Nairobi Region, Kenya",
+    "verification_status": "Under Review",
+    "methodology": "AMS-I.D - Grid Connected Renewable",
+    "public_details": {
+      "capacity_mw": 50,
+      "annual_generation_mwh": 120000,
+      "grid_connection": "Kenya National Grid",
+      "co_benefits": ["Energy Access", "Job Creation"]
+    },
+    "private_details": {
+      "verification_reports": ["technical_assessment.pdf"],
+      "financial_details": {"project_cost": 45000000, "ppa_rate": 0.085},
+      "third_party_audits": 1
+    }
+  },
+  {
+    "id": "CCX-CR-003",
+    "project_name": "Mangrove Restoration Indonesia",
+    "supplier": "BlueCarbon ID",
+    "credit_type": "Afforestation",
+    "vintage": 2025,
+    "quantity_available": 8000,
+    "price_per_ton": 42.00,
+    "location": "Sulawesi, Indonesia",
+    "verification_status": "Verified",
+    "methodology": "ARR - Afforestation/Reforestation",
+    "public_details": {
+      "project_area_hectares": 3000,
+      "tree_species": ["Mangrove", "Nypa Palm"],
+      "co_benefits": ["Coastal Protection", "Fisheries Support"],
+      "sdg_alignment": [14, 15, 13]
+    },
+    "private_details": {
+      "verification_reports": ["remote_sensing_2025.pdf"],
+      "financial_details": {"project_cost": 1800000, "roi_projection": 0.12},
+      "third_party_audits": 2
+    }
+  },
+  {
+    "id": "CCX-CR-004",
+    "project_name": "Wind Farm Expansion Texas",
+    "supplier": "LoneStar Renewables",
+    "credit_type": "Renewable Energy",
+    "vintage": 2023,
+    "quantity_available": 20000,
+    "price_per_ton": 30.25,
+    "location": "Texas, USA",
+    "verification_status": "Verified",
+    "methodology": "ACM0002 - Grid-connected Electricity",
+    "public_details": {
+      "capacity_mw": 150,
+      "annual_generation_mwh": 400000,
+      "grid_connection": "ERCOT Grid",
+      "co_benefits": ["Job Creation", "Air Quality Improvement"]
+    },
+    "private_details": {
+      "verification_reports": ["turbine_specs.pdf", "epa_approval.pdf"],
+      "financial_details": {"project_cost": 120000000, "ppa_rate": 0.06},
+      "third_party_audits": 4
+    }
+  },
+  {
+    "id": "CCX-CR-005",
+    "project_name": "Clean Cookstoves Uganda",
+    "supplier": "BetterStoves Africa",
+    "credit_type": "Household Energy Efficiency",
+    "vintage": 2024,
+    "quantity_available": 12000,
+    "price_per_ton": 12.00,
+    "location": "Kampala, Uganda",
+    "verification_status": "Under Review",
+    "methodology": "AMS-II.G - Energy Efficiency Measures",
+    "public_details": {
+      "households_reached": 6000,
+      "stove_type": "Improved Biomass Stoves",
+      "co_benefits": ["Health", "Reduced Deforestation"],
+      "sdg_alignment": [3, 7, 13, 15]
+    },
+    "private_details": {
+      "verification_reports": ["usage_survey.pdf"],
+      "financial_details": {"project_cost": 600000, "roi_projection": 0.20},
+      "third_party_audits": 1
+    }
+  },
+  {
+    "id": "CCX-CR-006",
+    "project_name": "Landfill Gas Capture Mexico",
+    "supplier": "GreenMethane MX",
+    "credit_type": "Methane Capture",
+    "vintage": 2023,
+    "quantity_available": 15000,
+    "price_per_ton": 28.50,
+    "location": "Guadalajara, Mexico",
+    "verification_status": "Verified",
+    "methodology": "ACM0001 - Landfill Gas Capture",
+    "public_details": {
+      "facility_size": "Large",
+      "methane_captured_tons": 5000,
+      "co_benefits": ["Odor Control", "Power Generation"]
+    },
+    "private_details": {
+      "verification_reports": ["gas_flow_meter.pdf"],
+      "financial_details": {"project_cost": 3500000, "roi_projection": 0.18},
+      "third_party_audits": 2
+    }
+  },
+  {
+    "id": "CCX-CR-007",
+    "project_name": "Peatland Protection Congo",
+    "supplier": "EcoGuard Africa",
+    "credit_type": "Avoided Deforestation",
+    "vintage": 2025,
+    "quantity_available": 9000,
+    "price_per_ton": 40.00,
+    "location": "Cuvette Centrale, DRC",
+    "verification_status": "Pending",
+    "methodology": "REDD+ - Avoided Deforestation",
+    "public_details": {
+      "project_area_hectares": 7000,
+      "carbon_density": "High",
+      "co_benefits": ["Biodiversity Protection", "Local Livelihoods"]
+    },
+    "private_details": {
+      "verification_reports": ["satellite_imagery.pdf"],
+      "financial_details": {"project_cost": 5000000, "roi_projection": 0.14},
+      "third_party_audits": 0
+    }
+  },
+  {
+    "id": "CCX-CR-008",
+    "project_name": "Hydroelectric Dam Nepal",
+    "supplier": "Himalaya Hydro",
+    "credit_type": "Renewable Energy",
+    "vintage": 2022,
+    "quantity_available": 25000,
+    "price_per_ton": 35.00,
+    "location": "Pokhara, Nepal",
+    "verification_status": "Verified",
+    "methodology": "AMS-I.D - Small-scale Renewable",
+    "public_details": {
+      "capacity_mw": 80,
+      "annual_generation_mwh": 300000,
+      "co_benefits": ["Energy Security", "Local Employment"]
+    },
+    "private_details": {
+      "verification_reports": ["hydro_flow_data.pdf"],
+      "financial_details": {"project_cost": 100000000, "ppa_rate": 0.07},
+      "third_party_audits": 3
+    }
+  },
+  {
+    "id": "CCX-CR-009",
+    "project_name": "Biochar Soil Project India",
+    "supplier": "AgroCarbon Solutions",
+    "credit_type": "Soil Carbon Sequestration",
+    "vintage": 2024,
+    "quantity_available": 7000,
+    "price_per_ton": 32.50,
+    "location": "Maharashtra, India",
+    "verification_status": "Verified",
+    "methodology": "Soil Carbon Enhancement Protocol",
+    "public_details": {
+      "farms_involved": 2000,
+      "biochar_produced_tons": 3500,
+      "co_benefits": ["Soil Fertility", "Crop Yields"]
+    },
+    "private_details": {
+      "verification_reports": ["soil_samples.pdf"],
+      "financial_details": {"project_cost": 1200000, "roi_projection": 0.22},
+      "third_party_audits": 2
+    }
+  },
+  {
+    "id": "CCX-CR-010",
+    "project_name": "Geothermal Energy Iceland",
+    "supplier": "Icelandic GeoPower",
+    "credit_type": "Renewable Energy",
+    "vintage": 2023,
+    "quantity_available": 18000,
+    "price_per_ton": 29.75,
+    "location": "Reykjanes, Iceland",
+    "verification_status": "Verified",
+    "methodology": "ACM0002 - Grid Electricity",
+    "public_details": {
+      "capacity_mw": 90,
+      "annual_generation_mwh": 250000,
+      "co_benefits": ["Stable Energy Supply", "Reduced Imports"]
+    },
+    "private_details": {
+      "verification_reports": ["thermal_output_2023.pdf"],
+      "financial_details": {"project_cost": 85000000, "ppa_rate": 0.065},
+      "third_party_audits": 2
+    }
+  },
+  {
+    "id": "CCX-CR-011",
+    "project_name": "Grassland Conservation Argentina",
+    "supplier": "Pampa Carbon Trust",
+    "credit_type": "Avoided Conversion",
+    "vintage": 2025,
+    "quantity_available": 6000,
+    "price_per_ton": 27.00,
+    "location": "La Pampa, Argentina",
+    "verification_status": "Under Review",
+    "methodology": "Grassland Protection Protocol",
+    "public_details": {
+      "project_area_hectares": 4000,
+      "biodiversity_index": "High",
+      "co_benefits": ["Wildlife Habitat", "Community Engagement"]
+    },
+    "private_details": {
+      "verification_reports": ["species_survey.pdf"],
+      "financial_details": {"project_cost": 2000000, "roi_projection": 0.16},
+      "third_party_audits": 1
+    }
+  },
+  {
+    "id": "CCX-CR-012",
+    "project_name": "Direct Air Capture Plant Canada",
+    "supplier": "CarbonFuture Labs",
+    "credit_type": "Carbon Removal",
+    "vintage": 2026,
+    "quantity_available": 3000,
+    "price_per_ton": 120.00,
+    "location": "Alberta, Canada",
+    "verification_status": "Pending",
+    "methodology": "DACCS Protocol",
+    "public_details": {
+      "capture_capacity_tpy": 50000,
+      "technology": "Solid Sorbent DAC",
+      "co_benefits": ["Technology Innovation", "Skilled Jobs"]
+    },
+    "private_details": {
+      "verification_reports": ["pilot_results.pdf"],
+      "financial_details": {"project_cost": 50000000, "roi_projection": 0.10},
+      "third_party_audits": 0
+    }
+  }
+]
